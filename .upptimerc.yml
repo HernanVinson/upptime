@@ -4,12 +4,25 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
-  - name: Rtdm
-    url: https://rtdm.vinsoncloud.com
+    url:  https://www.google.com
+  - name: Rtdm Fabric
+    url:  https://rtdm.vinsoncloud.com
   - name: Freddo Vcloud
-    url: http://freddo.app.vinsoncloud.com
-    
+    url:  http://freddo.app.vinsoncloud.com
+  - name: Freddo Vcloud Stream Connector 2
+    url:  https://streamrtdmconnector2.vinsoncloud.com/api/Health
+  - name: Host VinsonCloud
+    url:  http://host.ws.vinsoncloud.com/Ui/Login
+  - name: RtView VinsonCloud
+    url:  http://rtview.vinsoncloud.com/
+  - name: Rt VinsonCloud
+    url:  http://rt.vinsoncloud.com/
+  - name: Deli Vinsoncloud
+    url: 	http://deli.vinsoncloud.com/
+  - name: Stream Connector 
+    url: https://streamvconnector.vinsoncloud.com/api/health
+ 
+   
 assignees:
  - HernanVinson
  
