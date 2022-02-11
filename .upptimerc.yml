@@ -21,8 +21,8 @@ sites:
     url: 	http://deli.vinsoncloud.com/
   - name: Stream Connector 
     url: https://streamvconnector.vinsoncloud.com/api/health
- - name: Test Caido
-   url: https://pepi.com.ar/
+ - name: Test Broken Site
+   url: https://thissitedoesnotexist.koj.co/
    
 assignees:
  - HernanVinson
