@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url:  https://www.google.com
+    url:  https://thissitedoesnotexist.koj.co/
   - name: Rtdm Fabric
     url:  https://rtdm.vinsoncloud.com
   - name: Freddo Vcloud
@@ -21,8 +21,7 @@ sites:
     url: 	http://deli.vinsoncloud.com/
   - name: Stream Connector 
     url: https://streamvconnector.vinsoncloud.com/api/health
- - name: Test Broken Site
-   url: https://thissitedoesnotexist.koj.co/
+
    
 assignees:
  - HernanVinson
