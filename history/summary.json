@@ -148,19 +148,19 @@
     "url": "https://streamvconnector.vinsoncloud.com/api/health",
     "icon": "https://favicons.githubusercontent.com/streamvconnector.vinsoncloud.com",
     "slug": "stream-connector",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 64,
-    "timeDay": 64,
+    "timeDay": 65,
     "timeWeek": 64,
     "timeMonth": 64,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-02-12": 0
+      "2022-02-12": 27
     }
   }
 ]
