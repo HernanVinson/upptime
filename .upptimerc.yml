@@ -9,7 +9,7 @@ sites:
     url:  https://rtdm.vinsoncloud.com
   - name: Freddo Vcloud
     url:  http://freddo.app.vinsoncloud.com
-  - name: Freddo Vcloud Stream Connector 2
+  - name: Freddo Vcloud Stream Connector 2 Es solo para Freddo
     url:  https://streamrtdmconnector2.vinsoncloud.com/api/Health
   - name: Host VinsonCloud
     url:  http://host.ws.vinsoncloud.com/Ui/Login
@@ -19,7 +19,7 @@ sites:
     url:  http://rt.vinsoncloud.com/
   - name: Deli Vinsoncloud
     url: 	http://deli.vinsoncloud.com/
-  - name: Stream Connector 
+  - name: Stream Connector dicho sitio es para el uso de fabric segundas marcas y todo a que el que no use el panel clasico.
     url: https://streamvconnector.vinsoncloud.com/api/health
 
    
