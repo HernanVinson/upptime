@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 89,
     "timeDay": 106,
-    "timeWeek": 99,
+    "timeWeek": 102,
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://rtdm.vinsoncloud.com",
     "icon": "https://favicons.githubusercontent.com/rtdm.vinsoncloud.com",
     "slug": "rtdm-fabric",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 132,
+    "time": 127,
+    "timeDay": 113,
     "timeWeek": 123,
-    "timeMonth": 130,
-    "timeYear": 130,
-    "dailyMinutesDown": {}
+    "timeMonth": 127,
+    "timeYear": 127,
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   },
   {
     "name": "Freddo Vcloud",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 133,
-    "timeWeek": 99,
+    "timeWeek": 110,
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 93,
     "timeDay": 117,
-    "timeWeek": 91,
+    "timeWeek": 90,
     "timeMonth": 93,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 184,
-    "timeWeek": 145,
+    "timeWeek": 152,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 111,
-    "timeWeek": 84,
+    "timeWeek": 91,
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {}
@@ -138,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 91,
     "timeDay": 49,
-    "timeWeek": 89,
+    "timeWeek": 92,
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {}
