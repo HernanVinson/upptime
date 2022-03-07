@@ -3,15 +3,13 @@ owner: HernanVinson # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url:  https://google.com/
   - name: Rtdm Fabric
     url:  https://rtdm.vinsoncloud.com
   - name: Freddo Vcloud
     url:  http://freddo.app.vinsoncloud.com
-  - name: Stream Vinsoncloud
+  - name: Stream Vinsoncloud, Contiene 2 marcas de Fabric y Marcas Chicas, Como ser Kanu.
     url:  https://stream.vinsoncloud.com/api/health
-  - name: Stream Connector dicho sitio es para el uso de fabric segundas marcas y todo a que el que no use el panel clasico.
+  - name: Stream Connector, SE DARA DE BAJA.
     url:  https://streamrtdmconnector.vinsoncloud.com/api/health
   - name: Freddo Vcloud Stream Connector 2 Es solo para Freddo
     url:  https://streamrtdmconnector2.vinsoncloud.com/api/Health
