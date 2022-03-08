@@ -58,18 +58,20 @@
     "url": "https://streamrtdmconnector.vinsoncloud.com/api/health",
     "icon": "https://favicons.githubusercontent.com/streamrtdmconnector.vinsoncloud.com",
     "slug": "stream-connector-se-dara-de-baja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 205,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
-    "dailyMinutesDown": {}
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "Freddo Vcloud Stream Connector 2 Es solo para Freddo",
