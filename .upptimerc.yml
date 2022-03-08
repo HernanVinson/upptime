@@ -9,8 +9,6 @@ sites:
     url:  http://freddo.app.vinsoncloud.com
   - name: Stream Vinsoncloud, Contiene 2 marcas de Fabric y Marcas Chicas, Como ser Kanu.
     url:  https://stream.vinsoncloud.com/api/health
-  - name: Stream Connector, SE DARA DE BAJA.
-    url:  https://streamrtdmconnector.vinsoncloud.com/api/health
   - name: Freddo Vcloud Stream Connector 2 Es solo para Freddo
     url:  https://streamrtdmconnector2.vinsoncloud.com/api/Health
   - name: Host VinsonCloud
