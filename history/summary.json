@@ -94,18 +94,20 @@
     "url": "http://rtview.vinsoncloud.com/",
     "icon": "https://favicons.githubusercontent.com/rtview.vinsoncloud.com",
     "slug": "rt-view-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 95,
-    "timeWeek": 161,
-    "timeMonth": 157,
-    "timeYear": 152,
-    "dailyMinutesDown": {}
+    "time": 151,
+    "timeDay": 76,
+    "timeWeek": 148,
+    "timeMonth": 155,
+    "timeYear": 151,
+    "dailyMinutesDown": {
+      "2022-04-16": 0
+    }
   },
   {
     "name": "Rt VinsonCloud",
@@ -130,17 +132,19 @@
     "url": "http://deli.vinsoncloud.com/",
     "icon": "https://favicons.githubusercontent.com/deli.vinsoncloud.com",
     "slug": "deli-vinsoncloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 44,
-    "timeWeek": 128,
-    "timeMonth": 123,
-    "timeYear": 113,
-    "dailyMinutesDown": {}
+    "time": 112,
+    "timeDay": 40,
+    "timeWeek": 117,
+    "timeMonth": 121,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2022-04-16": 0
+    }
   }
 ]
