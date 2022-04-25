@@ -1,7 +1,7 @@
 url: https://stream.vinsoncloud.com/api/health
-status: up
-code: 200
-responseTime: 85
-lastUpdated: 2022-04-25T16:46:35.056Z
+status: down
+code: 500
+responseTime: 220
+lastUpdated: 2022-04-25T21:48:36.165Z
 startTime: Mon Mar 07 2022 18:58:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
