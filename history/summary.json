@@ -40,16 +40,16 @@
     "url": "https://stream.vinsoncloud.com/api/health",
     "icon": "https://favicons.githubusercontent.com/stream.vinsoncloud.com",
     "slug": "stream-vinsoncloud-contiene-2-marcas-de-fabric-y-marcas-chicas-como-ser-kanu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 70,
-    "timeWeek": 129,
-    "timeMonth": 144,
+    "timeDay": 93,
+    "timeWeek": 128,
+    "timeMonth": 141,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -95,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/rtview.vinsoncloud.com",
     "slug": "rt-view-vinson-cloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 1180,
     "timeWeek": 409,
     "timeMonth": 223,
     "timeYear": 181,
-    "dailyMinutesDown": {
-      "2022-04-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rt VinsonCloud",
@@ -133,18 +131,16 @@
     "icon": "https://favicons.githubusercontent.com/deli.vinsoncloud.com",
     "slug": "deli-vinsoncloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 325,
     "timeWeek": 162,
     "timeMonth": 132,
     "timeYear": 123,
-    "dailyMinutesDown": {
-      "2022-04-25": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
