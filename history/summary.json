@@ -76,9 +76,9 @@
     "url": "http://host.ws.vinsoncloud.com/Ui/Login",
     "icon": "https://favicons.githubusercontent.com/host.ws.vinsoncloud.com",
     "slug": "host-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 136,
     "timeMonth": 111,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-23": 0
+    }
   },
   {
     "name": "RtView VinsonCloud",
