@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/rtdm.vinsoncloud.com",
     "slug": "rtdm-fabric",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.85%",
+    "uptimeDay": "84.46%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.85%",
     "time": 384,
     "timeDay": 8009,
     "timeWeek": 2871,
     "timeMonth": 937,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2022-05-24": 2,
+      "2022-05-24": 34,
       "2022-05-23": 190
     }
   },
@@ -80,18 +80,18 @@
     "icon": "https://favicons.githubusercontent.com/host.ws.vinsoncloud.com",
     "slug": "host-vinson-cloud",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "74.77%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.73%",
+    "uptimeDay": "72.51%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.73%",
     "time": 112,
     "timeDay": 226,
     "timeWeek": 168,
     "timeMonth": 119,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-05-24": 149,
+      "2022-05-24": 182,
       "2022-05-23": 214
     }
   },
@@ -100,11 +100,11 @@
     "url": "http://rtview.vinsoncloud.com/",
     "icon": "https://favicons.githubusercontent.com/rtview.vinsoncloud.com",
     "slug": "rt-view-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "82.66%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "82.42%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.83%",
     "time": 174,
     "timeDay": 139,
@@ -112,7 +112,7 @@
     "timeMonth": 244,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-05-24": 63,
+      "2022-05-24": 66,
       "2022-05-23": 187
     }
   },
@@ -121,10 +121,10 @@
     "url": "http://rt.vinsoncloud.com/",
     "icon": "https://favicons.githubusercontent.com/rt.vinsoncloud.com",
     "slug": "rt-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "87.05%",
-    "uptimeWeek": "98.15%",
+    "uptimeDay": "86.92%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.87%",
     "time": 111,
@@ -133,6 +133,7 @@
     "timeMonth": 125,
     "timeYear": 111,
     "dailyMinutesDown": {
+      "2022-05-24": 2,
       "2022-05-23": 187
     }
   },
@@ -141,9 +142,9 @@
     "url": "http://deli.vinsoncloud.com/",
     "icon": "https://favicons.githubusercontent.com/deli.vinsoncloud.com",
     "slug": "deli-vinsoncloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "87.15%",
+    "uptimeDay": "87.14%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.87%",
@@ -153,6 +154,7 @@
     "timeMonth": 167,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2022-05-24": 0,
       "2022-05-23": 185
     }
   }
