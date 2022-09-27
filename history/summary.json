@@ -4,11 +4,11 @@
     "url": "https://rtdm.vinsoncloud.com",
     "icon": "https://favicons.githubusercontent.com/rtdm.vinsoncloud.com",
     "slug": "rtdm-fabric",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.87%",
     "time": 439,
     "timeDay": 276,
@@ -16,6 +16,7 @@
     "timeMonth": 277,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2022-09-27": 2,
       "2022-09-08": 33,
       "2022-05-24": 190,
       "2022-05-23": 190
@@ -53,7 +54,7 @@
     "time": 213,
     "timeDay": 162,
     "timeWeek": 247,
-    "timeMonth": 265,
+    "timeMonth": 260,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -80,10 +81,10 @@
     "url": "http://host.ws.vinsoncloud.com/Ui/Login",
     "icon": "https://favicons.githubusercontent.com/host.ws.vinsoncloud.com",
     "slug": "host-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 130,
@@ -92,6 +93,7 @@
     "timeMonth": 154,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2022-09-27": 1,
       "2022-05-24": 338,
       "2022-05-23": 214
     }
