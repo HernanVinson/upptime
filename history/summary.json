@@ -81,9 +81,9 @@
     "url": "http://host.ws.vinsoncloud.com/Ui/Login",
     "icon": "https://favicons.githubusercontent.com/host.ws.vinsoncloud.com",
     "slug": "host-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -93,6 +93,7 @@
     "timeMonth": 142,
     "timeYear": 135,
     "dailyMinutesDown": {
+      "2023-01-02": 0,
       "2022-09-27": 23,
       "2022-05-24": 338,
       "2022-05-23": 214
@@ -110,7 +111,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 262,
-    "timeDay": 151,
+    "timeDay": 219,
     "timeWeek": 169,
     "timeMonth": 493,
     "timeYear": 262,
