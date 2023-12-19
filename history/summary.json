@@ -58,9 +58,9 @@
     "url": "http://host.ws.vinsoncloud.com/Ui/Login",
     "icon": "https://icons.duckduckgo.com/ip3/host.ws.vinsoncloud.com.ico",
     "slug": "host-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -70,6 +70,7 @@
     "timeMonth": 133,
     "timeYear": 147,
     "dailyMinutesDown": {
+      "2023-12-19": 0,
       "2023-01-02": 113
     }
   },
