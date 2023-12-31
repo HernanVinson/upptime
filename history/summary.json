@@ -24,18 +24,20 @@
     "url": "http://freddo.app.vinsoncloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/freddo.app.vinsoncloud.com.ico",
     "slug": "freddo-vcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 121,
-    "timeWeek": 78,
+    "timeDay": 122,
+    "timeWeek": 84,
     "timeMonth": 107,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-31": 0
+    }
   },
   {
     "name": "Freddo Vcloud Stream Connector 2 Es solo para Freddo",
@@ -60,18 +62,19 @@
     "url": "http://host.ws.vinsoncloud.com/Ui/Login",
     "icon": "https://icons.duckduckgo.com/ip3/host.ws.vinsoncloud.com.ico",
     "slug": "host-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 147,
-    "timeDay": 136,
-    "timeWeek": 123,
-    "timeMonth": 124,
+    "timeDay": 104,
+    "timeWeek": 117,
+    "timeMonth": 122,
     "timeYear": 147,
     "dailyMinutesDown": {
+      "2023-12-31": 0,
       "2023-01-02": 113
     }
   },
