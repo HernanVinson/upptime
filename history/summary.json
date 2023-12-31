@@ -4,18 +4,20 @@
     "url": "https://rtdm.vinsoncloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/rtdm.vinsoncloud.com.ico",
     "slug": "rtdm-fabric",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
+    "time": 388,
     "timeDay": 169,
     "timeWeek": 184,
     "timeMonth": 303,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-31": 0
+    }
   },
   {
     "name": "Freddo Vcloud",
