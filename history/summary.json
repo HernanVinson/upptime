@@ -11,9 +11,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 356,
-    "timeDay": 166,
-    "timeWeek": 387,
-    "timeMonth": 257,
+    "timeDay": 121,
+    "timeWeek": 375,
+    "timeMonth": 258,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2023-12-31": 87
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 187,
-    "timeWeek": 156,
+    "timeDay": 63,
+    "timeWeek": 137,
     "timeMonth": 182,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 105,
-    "timeWeek": 81,
-    "timeMonth": 155,
+    "timeDay": 48,
+    "timeWeek": 65,
+    "timeMonth": 154,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 73,
-    "timeWeek": 82,
-    "timeMonth": 149,
+    "timeDay": 111,
+    "timeWeek": 85,
+    "timeMonth": 150,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -80,18 +80,16 @@
     "slug": "rt-view-vinson-cloud",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 165,
+    "timeDay": 172,
     "timeWeek": 439,
-    "timeMonth": 265,
+    "timeMonth": 266,
     "timeYear": 275,
-    "dailyMinutesDown": {
-      "2024-01-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rt VinsonCloud",
@@ -104,10 +102,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 94,
-    "timeWeek": 121,
-    "timeMonth": 171,
+    "time": 177,
+    "timeDay": 73,
+    "timeWeek": 109,
+    "timeMonth": 168,
     "timeYear": 173,
     "dailyMinutesDown": {}
   }
