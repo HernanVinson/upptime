@@ -60,18 +60,20 @@
     "url": "http://host.ws.vinsoncloud.com/Ui/Login",
     "icon": "https://icons.duckduckgo.com/ip3/host.ws.vinsoncloud.com.ico",
     "slug": "host-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 111,
-    "timeWeek": 85,
-    "timeMonth": 150,
-    "timeYear": 141,
-    "dailyMinutesDown": {}
+    "time": 192,
+    "timeDay": 11409,
+    "timeWeek": 2913,
+    "timeMonth": 777,
+    "timeYear": 203,
+    "dailyMinutesDown": {
+      "2024-01-30": 0
+    }
   },
   {
     "name": "RtView VinsonCloud",
@@ -85,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 172,
-    "timeWeek": 439,
+    "timeDay": 158,
+    "timeWeek": 140,
     "timeMonth": 266,
     "timeYear": 275,
     "dailyMinutesDown": {}
