@@ -8,12 +8,12 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 355,
     "timeDay": 403,
     "timeWeek": 399,
-    "timeMonth": 265,
+    "timeMonth": 268,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2023-12-31": 87
@@ -33,7 +33,7 @@
     "time": 125,
     "timeDay": 463,
     "timeWeek": 178,
-    "timeMonth": 192,
+    "timeMonth": 200,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 14141,
+    "timeDay": 163,
     "timeWeek": 4768,
-    "timeMonth": 1285,
+    "timeMonth": 1395,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -78,9 +78,9 @@
     "url": "http://rtview.vinsoncloud.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rtview.vinsoncloud.com.ico",
     "slug": "rt-view-vinson-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 148,
     "timeMonth": 270,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "Rt VinsonCloud",
