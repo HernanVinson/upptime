@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 355,
-    "timeDay": 403,
-    "timeWeek": 399,
-    "timeMonth": 268,
+    "timeDay": 138,
+    "timeWeek": 398,
+    "timeMonth": 260,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2023-12-31": 87
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 463,
-    "timeWeek": 178,
-    "timeMonth": 200,
+    "timeDay": 98,
+    "timeWeek": 167,
+    "timeMonth": 196,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 297,
-    "timeWeek": 96,
-    "timeMonth": 160,
+    "timeDay": 124,
+    "timeWeek": 106,
+    "timeMonth": 154,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -66,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 163,
-    "timeWeek": 4768,
-    "timeMonth": 1395,
+    "time": 231,
+    "timeDay": 124,
+    "timeWeek": 4775,
+    "timeMonth": 1393,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -80,18 +80,16 @@
     "slug": "rt-view-vinson-cloud",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 215,
-    "timeWeek": 152,
+    "timeDay": 222,
+    "timeWeek": 170,
     "timeMonth": 267,
-    "timeYear": 275,
-    "dailyMinutesDown": {
-      "2024-01-31": 11
-    }
+    "timeYear": 276,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rt VinsonCloud",
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 217,
-    "timeWeek": 116,
-    "timeMonth": 170,
+    "timeDay": 80,
+    "timeWeek": 111,
+    "timeMonth": 164,
     "timeYear": 173,
     "dailyMinutesDown": {}
   }
