@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 355,
-    "timeDay": 121,
-    "timeWeek": 198,
-    "timeMonth": 255,
+    "timeDay": 430,
+    "timeWeek": 235,
+    "timeMonth": 264,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2023-12-31": 87
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 170,
-    "timeWeek": 215,
-    "timeMonth": 205,
-    "timeYear": 123,
+    "timeDay": 527,
+    "timeWeek": 264,
+    "timeMonth": 220,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 220,
-    "timeWeek": 165,
-    "timeMonth": 154,
+    "timeDay": 298,
+    "timeWeek": 190,
+    "timeMonth": 161,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -66,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 77,
-    "timeWeek": 4786,
-    "timeMonth": 1390,
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 4804,
+    "timeMonth": 1395,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -80,18 +80,16 @@
     "slug": "rt-view-vinson-cloud",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 478,
-    "timeWeek": 264,
-    "timeMonth": 282,
+    "timeDay": 502,
+    "timeWeek": 274,
+    "timeMonth": 285,
     "timeYear": 277,
-    "dailyMinutesDown": {
-      "2024-02-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rt VinsonCloud",
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 133,
-    "timeWeek": 121,
-    "timeMonth": 159,
+    "timeDay": 305,
+    "timeWeek": 151,
+    "timeMonth": 164,
     "timeYear": 173,
     "dailyMinutesDown": {}
   }
