@@ -7,8 +7,8 @@ sites:
     url:  https://rtdm.vinsoncloud.com
   - name: Freddo Vcloud
     url:  http://freddo.app.vinsoncloud.com
-  - name: Freddo Vcloud Stream Connector 2 Es solo para Freddo
-    url:  https://streamrtdmconnector2.vinsoncloud.com/api/Health
+  - name: Reportes Vinson(Vinson Reporting)
+    url:  https://reportes.vinson.com.ar/
   - name: Host VinsonCloud
     url:  http://host.ws.vinsoncloud.com/Ui/Login
   - name: RtView VinsonCloud
