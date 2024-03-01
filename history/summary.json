@@ -6,17 +6,16 @@
     "slug": "rtdm-fabric",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 362,
     "timeDay": 157,
     "timeWeek": 315,
-    "timeMonth": 382,
+    "timeMonth": 389,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-02-29": 11,
       "2023-12-31": 87
     }
   },
@@ -34,7 +33,7 @@
     "time": 135,
     "timeDay": 213,
     "timeWeek": 375,
-    "timeMonth": 318,
+    "timeMonth": 320,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -70,7 +69,7 @@
     "time": 231,
     "timeDay": 76,
     "timeWeek": 159,
-    "timeMonth": 1370,
+    "timeMonth": 135,
     "timeYear": 255,
     "dailyMinutesDown": {}
   },
@@ -88,7 +87,7 @@
     "time": 338,
     "timeDay": 93,
     "timeWeek": 1284,
-    "timeMonth": 668,
+    "timeMonth": 701,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2024-02-12": 19
