@@ -4,18 +4,19 @@
     "url": "https://rtdm.vinsoncloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/rtdm.vinsoncloud.com.ico",
     "slug": "rtdm-fabric",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 267,
-    "timeDay": 225,
-    "timeWeek": 207,
-    "timeMonth": 219,
+    "timeDay": 103,
+    "timeWeek": 201,
+    "timeMonth": 222,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2024-04-10": 0,
       "2024-04-09": 30,
       "2023-12-31": 87
     }
@@ -32,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 270,
-    "timeWeek": 209,
+    "timeDay": 134,
+    "timeWeek": 205,
     "timeMonth": 255,
-    "timeYear": 155,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 583,
+    "time": 573,
+    "timeDay": 450,
     "timeWeek": 541,
     "timeMonth": 564,
-    "timeYear": 575,
+    "timeYear": 573,
     "dailyMinutesDown": {}
   },
   {
@@ -68,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 113,
-    "timeWeek": 119,
-    "timeMonth": 233,
+    "timeDay": 105,
+    "timeWeek": 111,
+    "timeMonth": 235,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -86,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 126,
-    "timeWeek": 143,
-    "timeMonth": 494,
-    "timeYear": 349,
+    "timeDay": 137,
+    "timeWeek": 142,
+    "timeMonth": 428,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2024-02-12": 19
     }
