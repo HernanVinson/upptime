@@ -4,11 +4,11 @@
     "url": "https://rtdm.vinsoncloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/rtdm.vinsoncloud.com.ico",
     "slug": "rtdm-fabric",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 293,
     "timeDay": 497,
@@ -16,6 +16,7 @@
     "timeMonth": 258,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2024-05-14": 0,
       "2024-04-22": 17,
       "2024-04-18": 15,
       "2024-04-09": 30,
@@ -85,9 +86,9 @@
     "slug": "rt-view-vinson-cloud",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 408,
     "timeDay": 2616,
@@ -95,7 +96,6 @@
     "timeMonth": 1348,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2024-05-14": 8,
       "2024-04-30": 15,
       "2024-02-12": 19
     }
