@@ -45,9 +45,9 @@
     "url": "https://reportes.vinson.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/reportes.vinson.com.ar.ico",
     "slug": "reportes-vinson-vinson-reporting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -57,6 +57,7 @@
     "timeMonth": 563,
     "timeYear": 556,
     "dailyMinutesDown": {
+      "2024-06-23": 0,
       "2024-04-26": 74
     }
   },
@@ -85,7 +86,7 @@
     "slug": "rt-view-vinson-cloud",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "87.33%",
+    "uptimeDay": "89.34%",
     "uptimeWeek": "94.61%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "99.88%",
