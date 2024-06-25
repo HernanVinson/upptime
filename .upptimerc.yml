@@ -13,6 +13,8 @@ sites:
     url:  http://host.ws.vinsoncloud.com/Ui/Login
   - name: RtView VinsonCloud
     url:  http://rtview.vinsoncloud.com/
+  - name: RtView2 VinsonCloud
+    url:  http://rtview2.vinsoncloud.com/
 
    
 assignees:
