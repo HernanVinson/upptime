@@ -116,19 +116,19 @@
     "url": "http://rtview2.vinsoncloud.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rtview2.vinsoncloud.com.ico",
     "slug": "rt-view2-vinson-cloud",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 2209,
-    "timeDay": 5138,
-    "timeWeek": 2209,
-    "timeMonth": 2209,
-    "timeYear": 2209,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 2033,
+    "timeDay": 4166,
+    "timeWeek": 2033,
+    "timeMonth": 2033,
+    "timeYear": 2033,
     "dailyMinutesDown": {
-      "2024-07-01": 44
+      "2024-07-01": 52
     }
   }
 ]
