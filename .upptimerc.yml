@@ -1,7 +1,7 @@
 # Change these first
 owner: HernanVinson # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
+version: 1.32.0
 sites:
   - name: Rtdm Fabric
     url:  https://rtdm.vinsoncloud.com
