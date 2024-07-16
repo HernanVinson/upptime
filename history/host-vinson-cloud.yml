@@ -1,7 +1,7 @@
 url: http://host.ws.vinsoncloud.com/Ui/Login
-status: down
-code: 503
-responseTime: 176
-lastUpdated: 2024-07-16T16:23:35.188Z
+status: up
+code: 200
+responseTime: 391
+lastUpdated: 2024-07-16T16:39:33.003Z
 startTime: 2022-02-10T18:31:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
