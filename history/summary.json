@@ -29,19 +29,19 @@
     "url": "http://freddo.app.vinsoncloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/freddo.app.vinsoncloud.com.ico",
     "slug": "freddo-vcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 415,
-    "timeWeek": 381,
-    "timeMonth": 319,
+    "time": 176,
+    "timeDay": 344,
+    "timeWeek": 361,
+    "timeMonth": 315,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-07-16": 0
+      "2024-07-16": 16
     }
   },
   {
@@ -71,19 +71,19 @@
     "url": "http://host.ws.vinsoncloud.com/Ui/Login",
     "icon": "https://icons.duckduckgo.com/ip3/host.ws.vinsoncloud.com.ico",
     "slug": "host-vinson-cloud",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 145,
-    "timeWeek": 142,
-    "timeMonth": 146,
+    "time": 234,
+    "timeDay": 227,
+    "timeWeek": 170,
+    "timeMonth": 154,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-07-16": 0
+      "2024-07-16": 16
     }
   },
   {
