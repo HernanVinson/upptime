@@ -1,7 +1,7 @@
 url: http://freddo.app.vinsoncloud.com
-status: up
-code: 200
-responseTime: 231
-lastUpdated: 2024-07-15T23:11:46.057Z
+status: down
+code: 503
+responseTime: 598
+lastUpdated: 2024-07-16T16:23:31.953Z
 startTime: 2022-02-03T17:39:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
