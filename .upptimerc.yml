@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Rtdm Fabric
     url:  https://rtdm.vinsoncloud.com
+  - name: Rtdm Fabric AppRunner
+    url:  https://fabric.vinsoncloud.com
   - name: Freddo Vcloud
     url:  http://freddo.app.vinsoncloud.com
   - name: Reportes Vinson(Vinson Reporting)
