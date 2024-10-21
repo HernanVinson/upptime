@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 400,
-    "timeDay": 382,
+    "timeDay": 574,
     "timeWeek": 533,
     "timeMonth": 1062,
     "timeYear": 447,
@@ -23,6 +23,24 @@
       "2024-04-09": 30,
       "2023-12-31": 87
     }
+  },
+  {
+    "name": "Rtdm Fabric AppRunner",
+    "url": "https://fabric.vinsoncloud.com",
+    "icon": "https://icons.duckduckgo.com/ip3/fabric.vinsoncloud.com.ico",
+    "slug": "rtdm-fabric-app-runner",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Freddo Vcloud",
@@ -95,12 +113,12 @@
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.46%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.58%",
     "time": 791,
     "timeDay": 3513,
     "timeWeek": 1997,
-    "timeMonth": 1337,
+    "timeMonth": 1180,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2024-10-16": 86,
