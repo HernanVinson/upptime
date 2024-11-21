@@ -29,19 +29,19 @@
     "url": "https://fabric.vinsoncloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/fabric.vinsoncloud.com.ico",
     "slug": "rtdm-fabric-app-runner",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 246,
-    "timeWeek": 401,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 557,
+    "timeDay": 2667,
+    "timeWeek": 986,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 21
     }
   },
   {
