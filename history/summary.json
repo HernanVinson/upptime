@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 371,
-    "timeWeek": 601,
-    "timeMonth": 457,
+    "time": 465,
+    "timeDay": 243,
+    "timeWeek": 529,
+    "timeMonth": 455,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2024-11-21": 15
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 448,
-    "timeDay": 34,
-    "timeWeek": 111,
+    "time": 446,
+    "timeDay": 38,
+    "timeWeek": 94,
     "timeMonth": 89,
-    "timeYear": 448,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2024-12-09": 40,
       "2024-11-22": 600,
@@ -52,14 +52,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 123,
-    "timeWeek": 408,
+    "time": 293,
+    "timeDay": 288,
+    "timeWeek": 374,
     "timeMonth": 325,
     "timeYear": 300,
-    "dailyMinutesDown": {
-      "2024-07-16": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reportes Vinson(Vinson Reporting)",
@@ -70,12 +68,12 @@
     "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.71%",
+    "uptimeMonth": "95.33%",
     "uptimeYear": "97.97%",
     "time": 2072,
-    "timeDay": 474,
-    "timeWeek": 609,
-    "timeMonth": 5218,
+    "timeDay": 478,
+    "timeWeek": 576,
+    "timeMonth": 4731,
     "timeYear": 2414,
     "dailyMinutesDown": {
       "2025-06-26": 691,
@@ -134,14 +132,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 84,
-    "timeWeek": 411,
+    "time": 157,
+    "timeDay": 130,
+    "timeWeek": 394,
     "timeMonth": 223,
     "timeYear": 152,
-    "dailyMinutesDown": {
-      "2024-07-16": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RtView VinsonCloud",
@@ -155,9 +151,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
     "time": 1291,
-    "timeDay": 181,
-    "timeWeek": 243,
-    "timeMonth": 188,
+    "timeDay": 130,
+    "timeWeek": 218,
+    "timeMonth": 189,
     "timeYear": 1313,
     "dailyMinutesDown": {
       "2025-05-29": 18,
@@ -218,9 +214,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
-    "time": 1100,
-    "timeDay": 106,
-    "timeWeek": 229,
+    "time": 1098,
+    "timeDay": 165,
+    "timeWeek": 209,
     "timeMonth": 204,
     "timeYear": 1062,
     "dailyMinutesDown": {
