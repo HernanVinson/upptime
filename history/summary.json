@@ -46,18 +46,20 @@
     "url": "http://freddo.app.vinsoncloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/freddo.app.vinsoncloud.com.ico",
     "slug": "freddo-vcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
+    "time": 306,
     "timeDay": 219,
     "timeWeek": 316,
     "timeMonth": 352,
     "timeYear": 309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-23": 0
+    }
   },
   {
     "name": "Reportes Vinson(Vinson Reporting)",
