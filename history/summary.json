@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
-    "timeDay": 517,
-    "timeWeek": 593,
-    "timeMonth": 593,
-    "timeYear": 517,
-    "dailyMinutesDown": {
-      "2024-11-21": 15
-    }
+    "timeDay": 606,
+    "timeWeek": 594,
+    "timeMonth": 602,
+    "timeYear": 518,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rtdm Fabric AppRunner",
@@ -30,15 +28,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 343,
-    "timeDay": 85,
+    "time": 342,
+    "timeDay": 119,
     "timeWeek": 100,
-    "timeMonth": 200,
+    "timeMonth": 203,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2024-12-09": 40,
-      "2024-11-22": 600,
-      "2024-11-21": 21
+      "2024-11-22": 600
     }
   },
   {
@@ -53,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 382,
-    "timeWeek": 362,
-    "timeMonth": 397,
-    "timeYear": 321,
+    "timeDay": 405,
+    "timeWeek": 363,
+    "timeMonth": 403,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -71,9 +68,9 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "97.87%",
     "time": 2016,
-    "timeDay": 778,
-    "timeWeek": 655,
-    "timeMonth": 1169,
+    "timeDay": 666,
+    "timeWeek": 644,
+    "timeMonth": 1173,
     "timeYear": 2556,
     "dailyMinutesDown": {
       "2025-11-18": 193,
@@ -140,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 136,
-    "timeWeek": 157,
-    "timeMonth": 186,
+    "timeDay": 164,
+    "timeWeek": 152,
+    "timeMonth": 185,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -155,13 +152,13 @@
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "98.81%",
-    "time": 1265,
-    "timeDay": 203,
-    "timeWeek": 192,
-    "timeMonth": 816,
-    "timeYear": 1238,
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "98.82%",
+    "time": 1266,
+    "timeDay": 179,
+    "timeWeek": 190,
+    "timeMonth": 480,
+    "timeYear": 1223,
     "dailyMinutesDown": {
       "2025-11-12": 315,
       "2025-10-20": 62,
@@ -200,8 +197,7 @@
       "2024-12-05": 26,
       "2024-12-01": 129,
       "2024-11-24": 73,
-      "2024-11-22": 70,
-      "2024-11-21": 10
+      "2024-11-22": 70
     }
   },
   {
@@ -213,13 +209,13 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "99.25%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.26%",
     "time": 937,
-    "timeDay": 265,
-    "timeWeek": 233,
-    "timeMonth": 776,
-    "timeYear": 960,
+    "timeDay": 203,
+    "timeWeek": 235,
+    "timeMonth": 517,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2025-11-12": 314,
       "2025-10-20": 156,
@@ -247,8 +243,7 @@
       "2024-12-05": 26,
       "2024-12-01": 127,
       "2024-11-24": 73,
-      "2024-11-22": 70,
-      "2024-11-21": 10
+      "2024-11-22": 70
     }
   }
 ]
