@@ -1,7 +1,7 @@
 url: https://reportes.vinson.com.ar/
-status: down
-code: 503
-responseTime: 400
-lastUpdated: 2026-01-23T11:00:49.004Z
+status: up
+code: 200
+responseTime: 681
+lastUpdated: 2026-01-23T11:28:20.222Z
 startTime: 2024-02-05T14:20:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
