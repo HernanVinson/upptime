@@ -11,10 +11,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 515,
-    "timeDay": 7093,
-    "timeWeek": 1383,
-    "timeMonth": 705,
-    "timeYear": 575,
+    "timeDay": 435,
+    "timeWeek": 1402,
+    "timeMonth": 696,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2026-01-26": 40
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 306,
-    "timeDay": 2974,
-    "timeWeek": 583,
-    "timeMonth": 199,
+    "time": 305,
+    "timeDay": 55,
+    "timeWeek": 553,
+    "timeMonth": 196,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2026-01-26": 40
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 172,
-    "timeWeek": 279,
-    "timeMonth": 338,
+    "time": 330,
+    "timeDay": 331,
+    "timeWeek": 288,
+    "timeMonth": 334,
     "timeYear": 335,
     "dailyMinutesDown": {}
   },
@@ -68,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.86%",
-    "time": 2025,
-    "timeDay": 512,
-    "timeWeek": 571,
-    "timeMonth": 635,
+    "time": 2024,
+    "timeDay": 546,
+    "timeWeek": 577,
+    "timeMonth": 627,
     "timeYear": 2556,
     "dailyMinutesDown": {
       "2026-01-23": 28,
@@ -139,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 65,
-    "timeWeek": 114,
-    "timeMonth": 987,
-    "timeYear": 241,
+    "time": 216,
+    "timeDay": 254,
+    "timeWeek": 135,
+    "timeMonth": 989,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -153,15 +153,15 @@
     "slug": "rt-view-vinson-cloud",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "73.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "98.57%",
     "time": 1216,
-    "timeDay": 3519,
-    "timeWeek": 1295,
-    "timeMonth": 950,
-    "timeYear": 1298,
+    "timeDay": 251,
+    "timeWeek": 1302,
+    "timeMonth": 949,
+    "timeYear": 1299,
     "dailyMinutesDown": {
       "2026-02-16": 375,
       "2026-02-06": 158,
@@ -197,8 +197,7 @@
       "2025-03-23": 260,
       "2025-03-22": 81,
       "2025-02-21": 106,
-      "2025-02-20": 65,
-      "2025-02-18": 67
+      "2025-02-20": 65
     }
   },
   {
@@ -208,14 +207,14 @@
     "slug": "rt-view2-vinson-cloud",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "73.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.19%",
     "time": 956,
-    "timeDay": 3510,
-    "timeWeek": 1311,
-    "timeMonth": 786,
+    "timeDay": 166,
+    "timeWeek": 1303,
+    "timeMonth": 784,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2026-02-16": 375,
@@ -239,8 +238,7 @@
       "2025-04-04": 50,
       "2025-03-23": 260,
       "2025-03-22": 81,
-      "2025-02-20": 17,
-      "2025-02-18": 67
+      "2025-02-20": 17
     }
   }
 ]
