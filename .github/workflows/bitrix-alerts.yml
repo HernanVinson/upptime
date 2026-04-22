@@ -1,0 +1,39 @@
+name: Bitrix Alerts
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send to Bitrix
+        env:
+          BITRIX_URL: ${{ secrets.BITRIX_URL }}
+          BITRIX_CHAT_ID: ${{ secrets.BITRIX_CHAT_ID }}
+        run: |
+          TITLE="${{ github.event.issue.title }}"
+          URL="${{ github.event.issue.html_url }}"
+
+          if [[ "$TITLE" == *"[DOWN]"* ]]; then
+            STATUS="🔴 DOWN"
+          elif [[ "$TITLE" == *"[UP]"* ]]; then
+            STATUS="🟢 UP"
+          else
+            exit 0
+          fi
+
+          SERVICE=$(echo "$TITLE" | sed 's/\[DOWN\] //; s/\[UP\] //')
+
+          MESSAGE="$STATUS
+Servicio: $SERVICE
+$URL"
+
+          curl -X POST "$BITRIX_URL" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"DIALOG_ID\": \"$BITRIX_CHAT_ID\",
+              \"MESSAGE\": \"$MESSAGE\"
+            }"
