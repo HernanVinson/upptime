@@ -27,13 +27,8 @@ jobs:
 
           SERVICE=$(echo "$TITLE" | sed 's/\[DOWN\] //; s/\[UP\] //')
 
-          MESSAGE="$STATUS
-Servicio: $SERVICE
-$URL"
+          MESSAGE="$STATUS - Servicio: $SERVICE - $URL"
 
           curl -X POST "$BITRIX_URL" \
             -H "Content-Type: application/json" \
-            -d "{
-              \"DIALOG_ID\": \"$BITRIX_CHAT_ID\",
-              \"MESSAGE\": \"$MESSAGE\"
-            }"
+            -d "{\"DIALOG_ID\":\"$BITRIX_CHAT_ID\",\"MESSAGE\":\"$MESSAGE\"}"
